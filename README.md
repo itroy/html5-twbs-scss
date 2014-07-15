@@ -1,4 +1,4 @@
-HTML5 Twitter Bootstrap SCSS Prototype Base
+HTML5 Prototype Base
 ===============
 
 HTML5 Twitter Bootstrap &amp; SCSS Boilerplate for prototyping.
